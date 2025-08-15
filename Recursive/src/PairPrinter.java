@@ -1,4 +1,4 @@
-public class ReversePairPrinter {
+public class PairPrinter {
 
     /* Write a recursive function to print an array in the following order. 
         Input:
